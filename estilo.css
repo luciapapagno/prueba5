@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500&display=swap');
+
+* 
+{margin:0;
+padding:0;
+box-sizing:border-box;}
+
+body
+{font-family: 'Roboto Mono', monospace;
+background-image: url(pattern.png);}
+
+main
+{width:95%;
+background-image: url(fondo.jpg);
+background-size: cover;
+margin-left: auto;
+margin-right: auto;
+padding-bottom:2%;}
+
+header {width: 90%;
+background-color:rgba(155,153,153,0.8);
+height: 95px;
+border-radius: 10px;
+margin-left: auto;
+margin-right: auto;}
+
+#logo
+{float: left;
+padding-left: 30px;}
+
+#logo h6
+{font-size:12px;
+font-style: italic;
+padding-left: 10%;
+font-weight: 400;}
+
+nav
+{height:95px;
+margin-left: auto;
+margin-right: auto;}
+
+#menu
+{float: right;
+padding-top: 3.3%;
+padding-left:22%;
+width:50%;}
+
+#menu li
+{display: inline;
+word-spacing: 15pt;
+font-size: 18px;}
+
+a
+{text-decoration:none;
+color:#000000;}
+
+section 
+{width:90%;
+margin-left: auto;
+margin-right: auto;
+height: 700px;}
+
+#titulo 
+{padding-left: 4%;
+padding-top:18%;}
+
+#titulo h1
+{font-size:42px;
+font-weight:lighter;}
+
+#subtitulo 
+{padding-top:0.5%;
+padding-left: 4%;}
+
+#subtitulo h3
+{font-style: italic;
+font-size:22px;
+color: #ffbf49;
+font-weight:400;}
+
+footer
+{width: 90%;
+background-color:rgba(155,153,153,0.8);
+height: 45px;
+border-radius: 10px;
+margin-left: auto;
+margin-right: auto;
+font-style: italic;
+clear: both;}
+
+#primero
+{float: left;
+padding-left: 4%;}
+
+#segundo
+{float: left;
+padding-top:1.4%;
+padding-left: 31%;
+font-size:12px;
+font-weight: 400;}
+
+#tercero
+{float: right;
+padding-right:1%;}
+
+.caja
+{width: 100%;
+background-color:rgba(155,153,153,0.8);
+height: 670px;
+border-radius: 10px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 2%;
+margin-bottom:2%;}
+
+
+#texto 
+{width: 50%;
+margin-left:4%;
+float: left;}
+
+article h2
+{padding-top:5%;
+font-size:32px;
+font-weight:200; 
+color: #ffbf49;
+padding-bottom: 5px;}
+
+#texto  p
+{font-size:13px;
+padding-top:1%;}
+
+#video 
+{width: 50%;
+float: left;}
+
+#imagens
+{float: right;
+width:35%;
+margin-right:4%;
+padding-top: 7%;}
+
+.negrita
+{font-weight: 500;
+font-size:16px;}
+
+
+.imagen1
+{float: left;
+width: 50%;
+padding-left:40px;
+padding-bottom: 5%;
+padding-top: 2%;
+}
+
+.imagen2
+{float: right;
+width: 50%;
+padding-left: 2%;
+padding-bottom: 5%;
+padding-top: 2%;}
+
+.texto2
+{float: right;
+padding-top: 15%;
+font-size: 14px;
+width: 55%;
+padding-right: 4%;}
+
+.trivia1
+{float: left;
+width: 61%;
+padding-left: 4%;
+padding-top: 13px;}
+
+
+.formulario1
+{padding-top: 12px;}
+
+.formulario2
+{padding-top: 12px;}
+
+.formulario3
+{padding-top: 12px;
+padding-bottom: 7%;}
+
+.formulario
+{padding-bottom: 5px;
+font-weight: 500;}
+
+.boton
+{border-radius: 10px;
+padding: 1.5%;
+margin-top: 4%;
+font-family: 'Roboto Mono', monospace;
+color: #000000;
+background-color:rgba(155,153,153);
+font-weight: bold;}
+
+.trivia2
+{float: right;
+width: 39%;
+padding-left: 5%;}
+
+.escenafoto
+{padding-bottom: 4%;}
+
